@@ -2,159 +2,609 @@
   "products": [
     {
       "id": 1,
-      "title": "Goodthreads Men's Soft Cotton Short-Sleeve Crewneck Pocket T-Shirt",
-      "price": 12315.5,
-      "description": "Goodthreads' collection of men's clothing crafted with care takes wear-everywhere apparel to the next level. Create can't-miss pairings with long- and short-sleeve button-down shirts in standard and slim fits, plus chino pants and shorts made from wrinkle-free non-iron fabric. With these classics-and T-shirts, polo shirts, and outerwear to round out your look-Goodthreads is your go-to for wardrobe staples with the style you want.",
-      "categoy": "men's clothing",
-      "image": "https://m.media-amazon.com/images/I/81xCIO8k+OL._AC_UX522_.jpg",
-      "ratin": {
-        "rate": 4.5,
-        "count": 2811
+      "title": "Apple iPad Pro",
+      "description": "With the power of Apple Pencil, iPad Pro transforms into an immersive drawing canvas and the world's best note‑taking device.",
+      "coverImage": "https://cdn.pocket-lint.com/r/s/1200x/assets/images/151545-tablets-review-apple-ipad-pro-129-inch-2020-review-business-as-usual-image1-buq5ipfo1e.jpg",
+      "otherImages": [
+        "https://scontent.fist2-3.fna.fbcdn.net/v/t45.5328-4/284824987_5338950829484855_214780658760877871_n.jpg?stp=dst-jpg_s960x960&_nc_cat=104&ccb=1-7&_nc_sid=c48759&_nc_ohc=M-gQTAS1z7kAX-MVi4X&_nc_ht=scontent.fist2-3.fna&oh=00_AT94IYmDMO2vwJ_ObSw94xbw-VRjYp3yTVCgZx89ZfyorA&oe=630D7358",
+        "https://www.cultofmac.com/wp-content/uploads/2018/11/15F45C19-AAD9-4E7A-A5FC-98AE1784A920.jpeg?ezimgfmt=ng:webp/ngcb24"
+      ],
+      "price": 4000,
+      "category": "Electronics",
+      "city": "Izmir",
+      "type": "Product",
+      "status": "Active",
+      "condition": "New",
+      "seller": {
+        "id": 88888888,
+        "displayName": "Yusuf Güneş",
+        "email": "YusufGüneş@stud.itu.edu.tr",
+        "image": "https://149366112.v2.pressablecdn.com/wp-content/uploads/2014/07/m1lead.jpg"
+      },
+      "requestedBuyers": [],
+      "createdAt": "2022-08-23T14:22:01.169Z",
+      "geo": {
+        "lat": 41.085562,
+        "lng": 28.985118
       }
     },
     {
       "id": 2,
-      "title": "Goodthreads Men's Soft Cotton Short-Sleeve Crewneck Pocket T-Shirt",
-      "price": 322.5,
-      "description": "Goodthreads' collection of men's clothing crafted with care takes wear-everywhere apparel to the next level. Create can't-miss pairings with long- and short-sleeve button-down shirts in standard and slim fits, plus chino pants and shorts made from wrinkle-free non-iron fabric. With these classics-and T-shirts, polo shirts, and outerwear to round out your look-Goodthreads is your go-to for wardrobe staples with the style you want.",
-      "categoy": "men's clothing",
-      "image": "https://m.media-amazon.com/images/I/81xCIO8k+OL._AC_UX522_.jpg",
-      "ratin": {
-        "rate": 4.5,
-        "count": 2811
+      "title": "1984",
+      "description": "It's 1984, and the Republican Revolution is on its way. Democratic Party strategist, Melissa Carnes, a fierce, combative woman in the male-dominated world of high politics, heads to her home state of Ohio to resuscitate the floundering Senate campaign of Kyle Porter, a successful entrepreneur running for public office for the first time.",
+      "coverImage": "https://static.nadirkitap.com/fotograf/1283843/22/Kitap_2021041515544112838436.jpg",
+      "otherImages": [
+        "https://static.nadirkitap.com/fotograf/1283843/22/Kitap-D_2021041515561812838434.jpg",
+        "https://static.nadirkitap.com/fotograf/1283843/22/Kitap-D_20210415155552128384312.jpg",
+        "https://static.nadirkitap.com/fotograf/1283843/22/Kitap-D_2021041515561812838434.jpg"
+      ],
+      "price": 40,
+      "category": "Books",
+      "city": "Istanbul",
+      "type": "Product",
+      "status": "Active",
+      "condition": "New",
+      "seller": {
+        "id": 88888888,
+        "displayName": "Medine Ateş",
+        "email": "MedineAteşş@stud.itu.edu.tr",
+        "image": "https://thumbs.dreamstime.com/b/christmas-watercolor-alphabet-letter-m-watercolor-letter-monogram-m-watercolor-design-watercolor-letter-poinsettia-christmas-236380093.jpg"
+      },
+      "requestedBuyers": [],
+      "createdAt": "2022-08-20T14:22:01.169Z",
+      "geo": {
+        "lat": 41.01203,
+        "lng": 28.955573
       }
     },
     {
       "id": 3,
-      "title": "Goodthreads Men's Soft Cotton Short-Sleeve Crewneck Pocket T-Shirt",
-      "price": 15.5,
-      "description": "Goodthreads' collection of men's clothing crafted with care takes wear-everywhere apparel to the next level. Create can't-miss pairings with long- and short-sleeve button-down shirts in standard and slim fits, plus chino pants and shorts made from wrinkle-free non-iron fabric. With these classics-and T-shirts, polo shirts, and outerwear to round out your look-Goodthreads is your go-to for wardrobe staples with the style you want.",
-      "categoy": "men's clothing",
-      "image": "https://m.media-amazon.com/images/I/81xCIO8k+OL._AC_UX522_.jpg",
-      "ratin": {
-        "rate": 2.5,
-        "count": 2811
+      "title": "Fuji X-T30",
+      "description": "Fujifilm x-t30 / 18-55mm xf lens body 2 yıldan fazla garantisi mevcut kozmetik 10/9 lensin garantisi bitmiştir sorunsuz kozmetik 10/9 4k video çekimi yapabilen fotoğrafta hiç çekilmemiştir yedek kamera olarak kullanıldı",
+      "coverImage": "https://cdn.mos.cms.futurecdn.net/YXENFXTphTsi7t7ofZFgjn-1200-80.jpg",
+      "otherImages": [
+        "https://cdn.mos.cms.futurecdn.net/nVt9ZwPsF37gWXo4mJYxvm.jpg",
+        "https://www.amateurphotographer.co.uk/wp-content/uploads/2021/12/fujifilm-xt30-markii-sensor.jpg",
+        "https://fujifilm-x.com/wp-content/uploads/2019/10/x-t30_overview-feature05.jpg"
+      ],
+      "price": 9000,
+      "category": "Electronics",
+      "city": "Istanbul",
+      "type": "Product",
+      "status": "Active",
+      "condition": "Used",
+      "seller": {
+        "id": 88888888,
+        "displayName": "Sinem Kaya",
+        "email": "SinemKaya@stud.tau.edu.tr",
+        "image": "https://www.random-name-generator.com/images/faces/female-white/42.jpg?ezimgfmt=rs:148x143/rscb1/ng:webp/ngcb1"
+      },
+      "requestedBuyers": [],
+      "createdAt": "2022-07-03T14:22:01.169Z",
+      "geo": {
+        "lat": 41.01203,
+        "lng": 28.955573
       }
     },
     {
       "id": 4,
-      "title": "Goodthreads Men's Soft Cotton Short-Sleeve Crewneck Pocket T-Shirt",
-      "price": 23.5,
-      "description": "Goodthreads' collection of men's clothing crafted with care takes wear-everywhere apparel to the next level. Create can't-miss pairings with long- and short-sleeve button-down shirts in standard and slim fits, plus chino pants and shorts made from wrinkle-free non-iron fabric. With these classics-and T-shirts, polo shirts, and outerwear to round out your look-Goodthreads is your go-to for wardrobe staples with the style you want.",
-      "categoy": "women's clothing",
-      "image": "https://m.media-amazon.com/images/I/81xCIO8k+OL._AC_UX522_.jpg",
-      "ratin": {
-        "rate": 3,
-        "count": 2811
+      "title": "Leather Jacket",
+      "description": "Zara Leather Jacket, bought it 2 years ago. It's in a very good condition. Size: M",
+      "coverImage": "https://images.gardrops.com/uploads/5085490/user_items/508549058-s4-1636232361521-6186ecaac2b91.jpeg",
+      "otherImages": [
+        "https://images.gardrops.com/uploads/5085490/user_items/508549058-s4-1636232360655-6186ecaa15319.jpeg",
+        "https://images.gardrops.com/uploads/5085490/user_items/508549058-s4-1636232362336-6186ecab7990c.jpeg",
+        "https://images.gardrops.com/uploads/5085490/user_items/508549058-s4-1636232363075-6186ecac50e64.jpeg"
+      ],
+      "price": 570,
+      "category": "Clothes",
+      "city": "Ankra",
+      "type": "Product",
+      "status": "Active",
+      "condition": "New",
+      "seller": {
+        "id": 88888888,
+        "displayName": "Adem Çakir",
+        "email": "AdemÇakir@stud.ytu.edu.tr",
+        "image": "https://www.random-name-generator.com/images/faces/male-white/30.jpg?ezimgfmt=rs:148x143/rscb1/ng:webp/ngcb1"
+      },
+      "requestedBuyers": [],
+      "createdAt": "2022-08-25T14:22:01.169Z",
+      "geo": {
+        "lat": 41.085562,
+        "lng": 28.985118
       }
     },
     {
       "id": 5,
-      "title": "Goodthreads Men's Soft Cotton Short-Sleeve Crewneck Pocket T-Shirt",
-      "price": 111.5,
-      "description": "Goodthreads' collection of men's clothing crafted with care takes wear-everywhere apparel to the next level. Create can't-miss pairings with long- and short-sleeve button-down shirts in standard and slim fits, plus chino pants and shorts made from wrinkle-free non-iron fabric. With these classics-and T-shirts, polo shirts, and outerwear to round out your look-Goodthreads is your go-to for wardrobe staples with the style you want.",
-      "categoy": "women's clothing",
-      "image": "https://m.media-amazon.com/images/I/81xCIO8k+OL._AC_UX522_.jpg",
-      "ratin": {
-        "rate": 2.1,
-        "count": 2811
+      "title": "Defacto-shirt",
+      "description": "Cumin spiced cheese that originates from the Leiden area in the Netherlands.",
+      "coverImage": "https://dfcdn.defacto.com.tr/7/Y8099AZ_22HS_YL226_09_01.jpg",
+      "otherImages": [
+        "https://dfcdn.defacto.com.tr/7/Y8099AZ_22HS_YL226_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/7/Y8099AZ_22HS_YL226_07_01.jpg",
+        "https://dfcdn.defacto.com.tr/7/Y8099AZ_22HS_YL226_02_02.jpg"
+      ],
+      "price": 60,
+      "category": "Clothes",
+      "city": "Mersin",
+      "type": "Product",
+      "status": "Active",
+      "condition": "New",
+      "seller": {
+        "id": 88888888,
+        "displayName": "Hakan Kösea",
+        "email": "HakanKösea@stud.ytu.edu.tr",
+        "image": ""
+      },
+      "requestedBuyers": [],
+      "createdAt": "2022-08-23T14:22:01.169Z",
+      "geo": {
+        "lat": 36.794385,
+        "lng": 34.601735
       }
     },
     {
       "id": 6,
-      "title": "Goodthreads Men's Soft Cotton Short-Sleeve Crewneck Pocket T-Shirt",
-      "price": 3214.5,
-      "description": "Goodthreads' collection of men's clothing crafted with care takes wear-everywhere apparel to the next level. Create can't-miss pairings with long- and short-sleeve button-down shirts in standard and slim fits, plus chino pants and shorts made from wrinkle-free non-iron fabric. With these classics-and T-shirts, polo shirts, and outerwear to round out your look-Goodthreads is your go-to for wardrobe staples with the style you want.",
-      "categoy": "women's clothing",
-      "image": "https://m.media-amazon.com/images/I/81xCIO8k+OL._AC_UX522_.jpg",
-      "ratin": {
-        "rate": 5,
-        "count": 2811
+      "title": "The Secret",
+      "description": "The Secret is a 2006 self-help book by Rhonda Byrne, based on the earlier film of the same name. It is based on the belief of the pseudoscientific law of attraction, which claims that thoughts can change a person's life directly.",
+      "coverImage": "https://www.thesecret.tv/wp-content/uploads/2015/05/Daily-Teaching-Book.png",
+      "otherImages": [
+        "https://static.nadirkitap.com/fotograf/557156/27/Kitap_202206261749445571564.jpg",
+        "https://static.nadirkitap.com/fotograf/747067/28/Kitap_202206281401417470679.jpg",
+        "https://static.nadirkitap.com/fotograf/557156/28/Kitap_202208131653025571566.jpg"
+      ],
+      "price": 120,
+      "category": "Books",
+      "city": "Adana",
+      "type": "Product",
+      "status": "Active",
+      "condition": "New",
+      "seller": {
+        "id": 88888888,
+        "displayName": "Emre Demir",
+        "email": "EmreDemir@stud.ytu.edu.tr",
+        "image": ""
+      },
+      "requestedBuyers": [],
+      "createdAt": "2022-08-21T14:22:01.169Z",
+      "geo": {
+        "lat": 41.085562,
+        "lng": 28.985118
       }
-    }
-  ],
-  "category": [
-    {
-      "id": "men's clothing",
-      "data": [
-        {
-          "id": 1,
-          "title": "Goodthreads Men's Soft Cotton Short-Sleeve Crewneck Pocket T-Shirt",
-          "price": 12315.5,
-          "description": "Goodthreads' collection of men's clothing crafted with care takes wear-everywhere apparel to the next level. Create can't-miss pairings with long- and short-sleeve button-down shirts in standard and slim fits, plus chino pants and shorts made from wrinkle-free non-iron fabric. With these classics-and T-shirts, polo shirts, and outerwear to round out your look-Goodthreads is your go-to for wardrobe staples with the style you want.",
-          "categoy": "men's clothing",
-          "image": "https://m.media-amazon.com/images/I/81xCIO8k+OL._AC_UX522_.jpg",
-          "ratin": {
-            "rate": 4.5,
-            "count": 2811
-          }
-        },
-        {
-          "id": 2,
-          "title": "Goodthreads Men's Soft Cotton Short-Sleeve Crewneck Pocket T-Shirt",
-          "price": 322.5,
-          "description": "Goodthreads' collection of men's clothing crafted with care takes wear-everywhere apparel to the next level. Create can't-miss pairings with long- and short-sleeve button-down shirts in standard and slim fits, plus chino pants and shorts made from wrinkle-free non-iron fabric. With these classics-and T-shirts, polo shirts, and outerwear to round out your look-Goodthreads is your go-to for wardrobe staples with the style you want.",
-          "categoy": "men's clothing",
-          "image": "https://m.media-amazon.com/images/I/81xCIO8k+OL._AC_UX522_.jpg",
-          "ratin": {
-            "rate": 4.5,
-            "count": 2811
-          }
-        },
-        {
-          "id": 3,
-          "title": "Goodthreads Men's Soft Cotton Short-Sleeve Crewneck Pocket T-Shirt",
-          "price": 15.5,
-          "description": "Goodthreads' collection of men's clothing crafted with care takes wear-everywhere apparel to the next level. Create can't-miss pairings with long- and short-sleeve button-down shirts in standard and slim fits, plus chino pants and shorts made from wrinkle-free non-iron fabric. With these classics-and T-shirts, polo shirts, and outerwear to round out your look-Goodthreads is your go-to for wardrobe staples with the style you want.",
-          "categoy": "men's clothing",
-          "image": "https://m.media-amazon.com/images/I/81xCIO8k+OL._AC_UX522_.jpg",
-          "ratin": {
-            "rate": 2.5,
-            "count": 2811
-          }
-        }
-      ]
     },
     {
-      "id": "women's clothing",
-      "data": [
-        {
-          "id": 4,
-          "title": "Goodthreads Men's Soft Cotton Short-Sleeve Crewneck Pocket T-Shirt",
-          "price": 23.5,
-          "description": "Goodthreads' collection of men's clothing crafted with care takes wear-everywhere apparel to the next level. Create can't-miss pairings with long- and short-sleeve button-down shirts in standard and slim fits, plus chino pants and shorts made from wrinkle-free non-iron fabric. With these classics-and T-shirts, polo shirts, and outerwear to round out your look-Goodthreads is your go-to for wardrobe staples with the style you want.",
-          "categoy": "women's clothing",
-          "image": "https://m.media-amazon.com/images/I/81xCIO8k+OL._AC_UX522_.jpg",
-          "ratin": {
-            "rate": 3,
-            "count": 2811
-          }
-        },
-        {
-          "id": 5,
-          "title": "Goodthreads Men's Soft Cotton Short-Sleeve Crewneck Pocket T-Shirt",
-          "price": 111.5,
-          "description": "Goodthreads' collection of men's clothing crafted with care takes wear-everywhere apparel to the next level. Create can't-miss pairings with long- and short-sleeve button-down shirts in standard and slim fits, plus chino pants and shorts made from wrinkle-free non-iron fabric. With these classics-and T-shirts, polo shirts, and outerwear to round out your look-Goodthreads is your go-to for wardrobe staples with the style you want.",
-          "categoy": "women's clothing",
-          "image": "https://m.media-amazon.com/images/I/81xCIO8k+OL._AC_UX522_.jpg",
-          "ratin": {
-            "rate": 2.1,
-            "count": 2811
-          }
-        },
-        {
-          "id": 6,
-          "title": "Goodthreads Men's Soft Cotton Short-Sleeve Crewneck Pocket T-Shirt",
-          "price": 3214.5,
-          "description": "Goodthreads' collection of men's clothing crafted with care takes wear-everywhere apparel to the next level. Create can't-miss pairings with long- and short-sleeve button-down shirts in standard and slim fits, plus chino pants and shorts made from wrinkle-free non-iron fabric. With these classics-and T-shirts, polo shirts, and outerwear to round out your look-Goodthreads is your go-to for wardrobe staples with the style you want.",
-          "categoy": "women's clothing",
-          "image": "https://m.media-amazon.com/images/I/81xCIO8k+OL._AC_UX522_.jpg",
-          "ratin": {
-            "rate": 5,
-            "count": 2811
-          }
-        }
-      ]
+      "id": 7,
+      "title": "Iphone 6S",
+      "description": "Lorem Ipsum is simply dummy text of the printing and type setting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "coverImage": "https://i.pinimg.com/originals/9d/ce/cd/9dcecd397c0698b675c2dd8e98d5472b.jpg",
+      "otherImages": [
+        "https://mobilecity-live.s3.ap-southeast-2.amazonaws.com/wp-content/uploads/2021/03/01015750/RG20-scaled-1-600x450.jpg",
+        "https://5.imimg.com/data5/SELLER/Default/2021/11/WA/AX/CS/13533677/32-500x500.jpg",
+        "https://scontent.fist2-3.fna.fbcdn.net/v/t45.5328-4/281763400_5712114215479346_7724858344702981516_n.jpg?stp=dst-jpg_s960x960&_nc_cat=101&ccb=1-7&_nc_sid=c48759&_nc_ohc=HxXG_YnNaksAX_pKDKM&_nc_ht=scontent.fist2-3.fna&oh=00_AT8PgCFptJ0UU1O7MEPuD2MdRl7yEuOt8_LZC6xBQweA-w&oe=630D4FA5"
+      ],
+      "price": 2400,
+      "category": "Electronics",
+      "city": "Istanbul",
+      "type": "Product",
+      "status": "Active",
+      "condition": "Used",
+      "seller": {
+        "id": 88888888,
+        "displayName": "Adem Çakir",
+        "email": "AdemÇakir@stud.ytu.edu.tr",
+        "image": "https://www.random-name-generator.com/images/faces/male-white/30.jpg?ezimgfmt=rs:148x143/rscb1/ng:webp/ngcb1"
+      },
+      "requestedBuyers": [],
+      "createdAt": "2022-08-18T14:22:01.169Z",
+      "geo": {
+        "lat": 40.98871,
+        "lng": 29.097114
+      }
+    },
+    {
+      "id": 8,
+      "title": "Leyden Cheese",
+      "description": "Cumin spiced cheese that originates from the Leiden area in the Netherlands. I bought it online but didn't like the taste after one bite.So I'm selling it to fellow cheese-lovers.",
+      "coverImage": "https://cdn11.bigcommerce.com/s-n2v2dr/images/stencil/1280x1280/products/270/548/IMG_24191__24870.1643319583.JPG?c=2",
+      "otherImages": [
+        "https://thumbs.dreamstime.com/b/cream-cottage-cheese-bitten-black-background-cream-cottage-cheese-bitten-black-background-222318478.jpg",
+        "https://cms.groupeditors.com/img/acl20150715-122608-916.jpg",
+        "https://fingerthumb.typepad.com/.a/6a0120a6183221970c015433ffa6fa970c-pi"
+      ],
+      "price": 200,
+      "category": "Food",
+      "city": "Hatay",
+      "type": "Product",
+      "status": "Active",
+      "condition": "New",
+      "seller": {
+        "id": 88888888,
+        "displayName": "Adem Çakir",
+        "email": "AdemÇakir@stud.ytu.edu.tr",
+        "image": "https://www.random-name-generator.com/images/faces/male-white/30.jpg?ezimgfmt=rs:148x143/rscb1/ng:webp/ngcb1"
+      },
+      "requestedBuyers": [],
+      "createdAt": "2022-08-23T14:22:01.169Z",
+      "geo": {
+        "lat": 36.275556,
+        "lng": 36.188218
+      }
+    },
+    {
+      "id": 9,
+      "title": "PS5",
+      "description": "Merhabalar cihazım ps5 sıfır cd sürüm modeli olup en son seri Olan 1116-a serisidir.cihaz İrlandadan alınmış olup faturası mevcuttur.1 yıl garantisi vardır Sony. Cihaz tek kol ile gelmektedir.isterseniz ekstradan ikinci kol aksesuar veya oyunlar alabilirsiniz.cihazı dükkanımıza gelip görüp deneyip alabilirsiniz.takas sadece Ps4 modelleri ve Xbox series s ile olur. Takas ve diğer sorularınız İçin bizimle iletişime geçebilirsiniz.",
+      "coverImage": "https://rankiing.net/wp-content/uploads/2021/08/Can-ExpressVPN-be-used-on-ps5.jpg",
+      "otherImages": [
+        "https://cdn.vox-cdn.com/thumbor/JQUrCP399QDuuRtqJvK2wEnuBbc=/1400x1400/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/21990360/vpavic_4261_20201023_0020.jpg",
+        "https://preview.redd.it/ifgvhy3m2t861.jpg?width=640&crop=smart&auto=webp&s=5e57a29b5b2cb1dc98aadd83522f94defe9bd542",
+        "https://external-preview.redd.it/HnujB8Z4RqKXUIq4FqhErGRcQEuJXww2hRkD4iFF378.jpg?auto=webp&s=f06b5dc197b57ab031640a71f117348017538305"
+      ],
+      "price": 14000,
+      "category": "Electronics",
+      "city": "Istanbul",
+      "type": "Product",
+      "status": "Active",
+      "condition": "New",
+      "seller": {
+        "id": 88888888,
+        "displayName": "Gisela Haas",
+        "email": "GiselaHaas@stud.tau.edu.tr",
+        "image": "https://www.random-name-generator.com/images/faces/female-white/38.jpg?ezimgfmt=rs:148x143/rscb1/ng:webp/ngcb1"
+      },
+      "requestedBuyers": [],
+      "createdAt": "2022-08-25T14:22:01.169Z",
+      "geo": {
+        "lat": 40.88341,
+        "lng": 29.231715
+      }
+    },
+    {
+      "id": 10,
+      "title": "Ikea Desk",
+      "description": "Lorem Ipsum is simply dummy text of the printing and type setting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "coverImage": "https://media.karousell.com/media/photos/products/2021/11/21/alex_ikea_desk_grey_turquoise__1637483779_9be63ab8_progressive.jpg",
+      "otherImages": [
+        "https://media.karousell.com/media/photos/products/2022/4/14/ikea_alex_desk_1649909869_36b33efa_progressive.jpg",
+        "https://media.karousell.com/media/photos/products/2022/4/14/ikea_alex_desk_1649909869_9f39ae5b_progressive.jpg",
+        "https://media.karousell.com/media/photos/products/2021/6/15/ikea_alex_desk_navy_blue_1623720950_5bfe020f_progressive"
+      ],
+      "price": 1200,
+      "category": "Furniture",
+      "city": "Istanbul",
+      "type": "Product",
+      "status": "Active",
+      "condition": "Used",
+      "seller": {
+        "id": 88888888,
+        "displayName": "Jonosch Schröde",
+        "email": "JonoschSchröde@stud.tau.edu.tr",
+        "image": "https://www.random-name-generator.com/images/faces/male-white/21.jpg?ezimgfmt=rs:148x143/rscb1/ng:webp/ngcb1"
+      },
+      "requestedBuyers": [],
+      "createdAt": "2022-08-22T14:22:01.169Z",
+      "geo": {
+        "lat": 41.019283,
+        "lng": 28.853814
+      }
+    },
+    {
+      "id": 11,
+      "title": "Gaming Chair",
+      "description": "PROFESYONEL   OYUNCU KOLTUĞU,135 DERECE  BEŞİK YAYLANMA ÖZELLİĞİ, KOLLARI AŞAĞI YUKARI İNER, İLERİ GERİ HAREKET EDER, 180 DERECE KADEMELİ OLARAK YATAR, KOLLARI İSTEDİĞİNİZ KONUMDA KİLİTLEME ÖZELLİĞİ, ORTOPEDİK BOYUN DESTEĞİ, SIRT DESTEĞİ, METAL KROM AYAKLAR",
+      "coverImage": "https://hips.hearstapps.com/amv-prod-gp.s3.amazonaws.com/gearpatrol/wp-content/uploads/2020/05/Gaming-Chair-Gear-Patrol-Lead-Full.jpg?crop=0.6706185567010309xw:1xh;center,top&resize=640:*",
+      "otherImages": [
+        "https://www.powerplanetonline.com/cdnassets/silla_negra_sinreposapies_001_l.jpg",
+        "https://www.pcstudio.in/wp-content/uploads/2022/01/Ant-Esports-Carbon-Gaming-Chair-Black-5.jpg",
+        "https://i0.wp.com/streamfixer.com/wp-content/uploads/2022/05/mid-banner-min.png?fit=370%2C608&ssl=1"
+      ],
+      "price": 2250,
+      "category": "Furniture",
+      "city": "Istanbul",
+      "type": "Product",
+      "status": "Active",
+      "condition": "New",
+      "seller": {
+        "id": 88888888,
+        "displayName": "Adem Çakir",
+        "email": "AdemÇakir@stud.ytu.edu.tr",
+        "image": "https://www.random-name-generator.com/images/faces/male-white/30.jpg?ezimgfmt=rs:148x143/rscb1/ng:webp/ngcb1"
+      },
+      "requestedBuyers": [],
+      "createdAt": "2022-08-20T14:22:01.169Z",
+      "geo": {
+        "lat": 41.019283,
+        "lng": 28.853814
+      }
+    },
+    {
+      "id": 12,
+      "title": "Xiaomi Scooter",
+      "description": "2021 10. Ayda alındı. 300 km yi geçmemiştir. Garantisi halla 14 ay devam etmekte.  4 tane yedek lastiği var.Çok kullanışlıdır. Pratik tüm işlerinizi halledebilirsiniz",
+      "coverImage": "https://d1fmx1rbmqrxrr.cloudfront.net/cnet/i/edit/2018/06/Xiaomi-Mi-365-electric-scooter-big.jpg",
+      "otherImages": [
+        "https://2.bp.blogspot.com/-mY0gEK3es-s/WSQCgB1tXWI/AAAAAAAACFk/4Xzab91Zxy8kkOKVgVmen-sm_hlH2jKKACLcB/s1600/IMG_20170521_160036.jpg",
+        "https://sellmyscooter.com/wp-content/uploads/2021/06/xiaomi-mi-scooter-essential-lite-cover.jpg"
+      ],
+      "price": 1250,
+      "category": "Two-wheeler",
+      "city": "Istanbul",
+      "type": "Product",
+      "status": "Active",
+      "condition": "Used",
+      "seller": {
+        "id": 88888888,
+        "displayName": "Kemal Yılmaz",
+        "email": "KemalYılmaz@stud.ytu.edu.tr",
+        "image": "https://marketplace.canva.com/EAE6OJ2qP8U/1/0/1600w/canva-gamer-with-glasses-character-twitch-profile-picture-CVfgWIJGgRo.jpg"
+      },
+      "requestedBuyers": [],
+      "createdAt": "2022-08-23T14:22:01.169Z",
+      "geo": {
+        "lat": 41.026535,
+        "lng": 28.668298
+      }
+    },
+    {
+      "id": 13,
+      "title": "Corner Sofa",
+      "description": "Lorem Ipsum is simply dummy text of the printing and type setting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "coverImage": "https://habbio.co.uk/wp-content/uploads/2022/02/HB04-Small-Corner-Pickle-DJJ_7051.jpg",
+      "otherImages": [
+        "https://habbio.co.uk/wp-content/uploads/2022/02/HB04-small-corner-Pickle-Side-960x640.jpg",
+        "https://habbio.co.uk/wp-content/uploads/2022/03/HB04-small-corner-Pickle-3Q-960x640.jpg",
+        "https://habbio.co.uk/wp-content/uploads/2022/02/HB04-small-corner-Pickle-above-960x640.jpg",
+        "https://habbio.co.uk/wp-content/uploads/2022/03/HB04-Corner-Small-Front-Pickle-Alt-960x640.jpg"
+      ],
+      "price": 890,
+      "category": "Furniture",
+      "city": "Istanbul",
+      "type": "Product",
+      "status": "Active",
+      "condition": "New",
+      "seller": {
+        "id": 88888888,
+        "displayName": "Kemal Yılmaz",
+        "email": "KemalYılmaz@stud.ytu.edu.tr",
+        "image": "https://marketplace.canva.com/EAE6OJ2qP8U/1/0/1600w/canva-gamer-with-glasses-character-twitch-profile-picture-CVfgWIJGgRo.jpg"
+      },
+      "requestedBuyers": [],
+      "createdAt": "2022-08-23T14:22:01.169Z",
+      "geo": {
+        "lat": 40.978861,
+        "lng": 28.643563
+      }
+    },
+    {
+      "id": 14,
+      "title": "Finance Textbook",
+      "description": "For courses in financial management. Using Tools, Making Connections, and Studying for Success in Finance Financial Management: Core Concepts is the ideal source material for non-finance majors seeking to learn the key elements of financial operations. The text focuses on the students' ability to understand complex financial concepts by centering its material around three major learning skills: using tools, making connections, and studying for success.",
+      "coverImage": "https://m.media-amazon.com/images/I/41dOAMr5tcL._AC_SY1000_.jpg",
+      "otherImages": [
+        "https://static01.nyt.com/newsgraphics/2019/10/21/2019-10-textbooks/assets/images/16a-pearson-ca-749-2000.jpg",
+        "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iZc5mena7b0A/v0/1200x-1.jpg",
+        "https://static01.nyt.com/newsgraphics/2019/10/21/2019-10-textbooks/06374135f580d6e97886386ac4b0e67a9eae2a3d/pearson-tx-286-l.jpg"
+      ],
+      "price": 120,
+      "category": "Books",
+      "city": "Izmir",
+      "type": "Product",
+      "status": "Active",
+      "condition": "Used",
+      "seller": {
+        "id": 88888888,
+        "displayName": "Umut Polat",
+        "email": "UmutPolat@stud.ytu.edu.tr",
+        "image": "https://www.random-name-generator.com/images/faces/male-white/37.jpg?ezimgfmt=rs:148x143/rscb1/ng:webp/ngcb1"
+      },
+      "requestedBuyers": [],
+      "createdAt": "2022-08-27T14:22:01.169Z",
+      "geo": {
+        "lat": 38.423733,
+        "lng": 27.142826
+      }
+    },
+    {
+      "id": 15,
+      "title": "Book Set",
+      "description": "For courses in financial management. Using Tools, Making Connections, and Studying for Success in Finance Financial Management: Core Concepts is the ideal source material for non-finance majors seeking to learn the key elements of financial operations. The text focuses on the students' ability to understand complex financial concepts by centering its material around three major learning skills: using tools, making connections, and studying for success.",
+      "coverImage": "https://static.nadirkitap.com/fotograf/197491/21/Kitap_202101071415381974915.jpg",
+      "otherImages": [
+        "https://files.iskultur.com.tr/dosyalar/2018/09/monte-cristo-kontu-1.jpg",
+        "https://m.media-amazon.com/images/I/41iUXl3135L._AC_SY1000_.jpg",
+        "https://s3.cloud.ngn.com.tr/kitantik/images/2019-05-24/0z8kgltjvzwu32m1fi7.JPG"
+      ],
+      "price": 80,
+      "category": "Books",
+      "city": "Izmir",
+      "type": "Product",
+      "status": "Active",
+      "condition": "Used",
+      "seller": {
+        "id": 88888888,
+        "displayName": "Oğuzhan Özer",
+        "email": "OğuzhanÖzer@stud.ytu.edu.tr",
+        "image": ""
+      },
+      "requestedBuyers": [],
+      "createdAt": "2022-08-23T14:22:01.169Z",
+      "geo": {
+        "lat": 38.423733,
+        "lng": 27.142826
+      }
+    },
+    {
+      "id": 16,
+      "title": "Vintage Bookshelf",
+      "description": "Lorem Ipsum is simply dummy text of the printing and type setting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "coverImage": "https://m.media-amazon.com/images/I/71DRJzGdg3L._SL1500_.jpg",
+      "otherImages": [
+        "https://m.media-amazon.com/images/I/81mJ25RW-AL._SL1500_.jpg",
+        "https://scontent.fist2-3.fna.fbcdn.net/v/t45.5328-4/294399762_6358996720784308_3057233429934220545_n.jpg?stp=dst-jpg_s960x960&_nc_cat=101&ccb=1-7&_nc_sid=c48759&_nc_ohc=pMlW0r8dBVcAX8-weBO&_nc_ht=scontent.fist2-3.fna&oh=00_AT8matGl_uFm2p8l-cL6W98Pz4-Ep-lAJ4Nw5UmMvat4tA&oe=630CF9F5",
+        "https://scontent.fist2-4.fna.fbcdn.net/v/t45.5328-4/294731852_5345348122250450_440700157289410874_n.jpg?stp=dst-jpg_p960x960&_nc_cat=109&ccb=1-7&_nc_sid=c48759&_nc_ohc=rNQSMaGe1FQAX_8cANT&_nc_ht=scontent.fist2-4.fna&oh=00_AT9KvkqFMhrC0HR66FGLp5oj4X0gWhvgolub5In_82S-MQ&oe=630D47DB"
+      ],
+      "price": 190,
+      "category": "Furniture",
+      "city": "Istanbul",
+      "type": "Product",
+      "status": "Active",
+      "condition": "New",
+      "seller": {
+        "id": 88888888,
+        "displayName": "Adem Çakir",
+        "email": "AdemÇakir@stud.ytu.edu.tr",
+        "image": "https://vikingintelligence.com/wp-content/uploads/2021/09/nouser_0.jpg"
+      },
+      "requestedBuyers": [],
+      "createdAt": "2022-08-23T14:22:01.169Z",
+      "geo": {
+        "lat": 40.978861,
+        "lng": 28.643563
+      }
+    },
+    {
+      "id": 17,
+      "title": "Bike",
+      "description": "Got it as a gift, never got to use it. I'm willing to give it away for free. It's in a good condition.",
+      "coverImage": "https://cdn.pocket-lint.com/r/s/970x/assets/images/156670-gadgets-review-merida-ebig-tour-400-image1-mxnth3arfq.JPG",
+      "otherImages": [
+        "https://cdn.motor1.com/images/mgl/9mmrvl/s3/cube-s-hybrid-one-e-bike-offers-big-miles-for-budget-minded-cyclists.jpg",
+        "https://i.insider.com/5f529676e6ff30001d4e73b6?width=1000&format=jpeg&auto=webp"
+      ],
+      "price": 0,
+      "category": "Two-wheeler",
+      "city": "Istanbul",
+      "type": "Product",
+      "status": "Active",
+      "condition": "New",
+      "seller": {
+        "id": 88888888,
+        "displayName": "Ahmet Yılmaz",
+        "email": "AhmetYılmaz@stud.ytu.edu.tr",
+        "image": "https://www.random-name-generator.com/images/faces/male-white/41.jpg?ezimgfmt=rs:148x143/rscb1/ng:webp/ngcb1"
+      },
+      "requestedBuyers": [],
+      "createdAt": "2022-08-23T14:22:01.169Z",
+      "geo": {
+        "lat": 40.978861,
+        "lng": 28.643563
+      }
+    },
+    {
+      "id": 18,
+      "title": "Longboard",
+      "description": "Got it as a gift, it's from Germany. It's in a good condition, didn't use it much.",
+      "coverImage": "https://images.gardrops.com/uploads/2457518/user_items/245751885-s4-file-62d06a9516316.jpeg",
+      "otherImages": [
+        "https://images.gardrops.com/uploads/2457518/user_items/245751885-s4-file-62d06a962e4e7.jpeg",
+        "https://images.gardrops.com/uploads/2457518/user_items/245751885-s4-file-62d06a9692795.jpeg",
+        "https://images.gardrops.com/uploads/2457518/user_items/245751885-s4-file-62d06a9754d98.jpeg"
+      ],
+      "price": 300,
+      "category": "Two-wheeler",
+      "city": "Istanbul",
+      "type": "Product",
+      "status": "Active",
+      "condition": "New",
+      "seller": {
+        "id": 88888888,
+        "displayName": "Songül Özcan ",
+        "email": "SongülÖzcan@stud.ytu.edu.tr",
+        "image": "https://www.random-name-generator.com/images/faces/female-white/21.jpg?ezimgfmt=rs:148x143/rscb1/ng:webp/ngcb1"
+      },
+      "requestedBuyers": [],
+      "createdAt": "2022-08-23T14:22:01.169Z",
+      "geo": {
+        "lat": 40.978861,
+        "lng": 28.643563
+      }
+    },
+    {
+      "id": 19,
+      "title": "Nike Dunk Low",
+      "description": "Got it as a gift, it's from Germany. It's in a good condition, didn't wear it much. Size 42.",
+      "coverImage": "https://images.gardrops.com/uploads/8141570/user_items/814157010-s4-file-62e45f46d0440.jpeg",
+      "otherImages": [
+        "https://images.gardrops.com/uploads/8141570/user_items/814157010-s4-file-62e45f47724f3.jpeg",
+        "https://images.gardrops.com/uploads/8141570/user_items/814157010-s4-file-62e45f47ad04e.jpeg",
+        "https://images.gardrops.com/uploads/8141570/user_items/814157010-s4-file-62e45f491d684.jpeg"
+      ],
+      "price": 800,
+      "category": "Clothes",
+      "city": "Istanbul",
+      "type": "Product",
+      "status": "Active",
+      "condition": "New",
+      "seller": {
+        "id": 88888888,
+        "displayName": "Adem Çakir",
+        "email": "AdemÇakir@stud.ytu.edu.tr",
+        "image": "https://www.random-name-generator.com/images/faces/male-white/30.jpg?ezimgfmt=rs:148x143/rscb1/ng:webp/ngcb1"
+      },
+      "requestedBuyers": [],
+      "createdAt": "2022-08-23T14:22:01.169Z",
+      "geo": {
+        "lat": 40.978861,
+        "lng": 28.643563
+      }
+    },
+    {
+      "id": 20,
+      "title": "Herschel Backpack",
+      "description": "25 litre hacminde, 15 inç bilgisayar konabilir. İçi çok geniştir. Boyutlarını fotoğraf olarak ekledim. Yeni etiketli orjinaldir.",
+      "coverImage": "https://images.gardrops.com/uploads/1079928/user_items/107992853-s4-file-62a4b2fb66893.jpeg",
+      "otherImages": [
+        "https://images.gardrops.com/uploads/1079928/user_items/107992853-s4-file-62a4b2fc65f4b.jpeg",
+        "https://images.gardrops.com/uploads/1079928/user_items/107992853-s4-file-62a4b2ff3b49e.jpeg",
+        "https://d3nt9em9l1urz8.cloudfront.net/media/catalog/product/cache/6/image/9df78eab33525d08d6e5fb8d27136e95/h/e/he10014-00006_thum1_208__47911.jpg"
+      ],
+      "price": 400,
+      "category": "Clothes",
+      "city": "Istanbul",
+      "type": "Product",
+      "status": "Active",
+      "condition": "New",
+      "seller": {
+        "id": 88888888,
+        "displayName": "Emrah Işik",
+        "email": "EmrahIşik@stud.tau.edu.tr",
+        "image": "https://www.random-name-generator.com/images/faces/male-white/18.jpg?ezimgfmt=rs:148x143/rscb1/ng:webp/ngcb1"
+      },
+      "requestedBuyers": [],
+      "createdAt": "2022-08-20T14:22:01.169Z",
+      "geo": {
+        "lat": 40.978861,
+        "lng": 28.643563
+      }
+    },
+    {
+      "id": 21,
+      "title": "Foldable Bike",
+      "description": "20 AY GARANTİSİ DEVAM EDİYOR TAM DOLU AKÜ İLE 50 KM YOL GİDİYOR 35 KM HIZ YAPIYOR 20 İNÇ JANT İLE YETİŞKİNLER İÇİN UYGUNDUR TAKAS DÜŞÜNMÜYORUM ALİCİSİNA HAYİRLİ OLSUN",
+      "coverImage": "https://media.karousell.com/media/photos/products/2020/8/3/folding_bike_pacific_reach_1596443153_4dc51479",
+      "otherImages": [
+        "https://media.karousell.com/media/photos/products/2020/8/3/folding_bike_pacific_reach_1596443154_172c9bfd_progressive",
+        "https://media.karousell.com/media/photos/products/2020/8/3/folding_bike_pacific_reach_1596443154_47d707d5_progressive"
+      ],
+      "price": 4400,
+      "category": "Two-wheeler",
+      "city": "Istanbul",
+      "type": "Product",
+      "status": "Active",
+      "condition": "New",
+      "seller": {
+        "id": 88888888,
+        "displayName": "Umut Polat",
+        "email": "studentstoretemp@gmail.com",
+        "image": "https://www.random-name-generator.com/images/faces/male-white/37.jpg?ezimgfmt=rs:148x143/rscb1/ng:webp/ngcb1"
+      },
+      "requestedBuyers": [],
+      "createdAt": "2022-08-21T14:22:01.169Z",
+      "geo": {
+        "lat": 40.978861,
+        "lng": 28.643563
+      }
     }
   ]
 }
